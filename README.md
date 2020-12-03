@@ -1,6 +1,6 @@
 # Hướng dẫn
 - Bước 1: Download file  [ZionApp-master.zip](https://github.com/dongocquy/ZionApp/archive/master.zip)
-- Bước 2: Giải nén và chạy file: Zion.Win.exe \
+- Bước 2: Giải nén và chạy file: Zion.Win.exe
 ![KASHO.Win.exe](https://github.com/dongocquy/ZionApp/blob/master/Images/zion.win.exe.png?raw=true)
 
 - Bước 3: Trong form đăng nhập, click vào Đăng ký để tạo tài khoản. \
